@@ -1,1 +1,1 @@
-# https://wizarty.github.io/rsschool-cv/cv
+https://wizarty.github.io/rsschool-cv/cv
