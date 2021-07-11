@@ -7,17 +7,19 @@ MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
-Education
+**Summary:**
+
+**Education:**
 ---------
 
 2016-2020 
-:   **Bachelor, Computer Science** Gtu
+:   **Bachelor, Computer Science, Gtu**
 
 
 2020-2020 (expected)
-:   **master , Computer Science ** Gtu
+:   **Master , Computer Science, Gtu**
 
-Experience
+**Experience:**
 ----------
 
 
@@ -26,15 +28,16 @@ Experience
 
 
 
-Technical Experience
+**Skills:**
 --------------------
 
 
 
 
-Languages
+**Languages:**
 ----------------------------------------
 
   * English
   * Georgian
   * Russian
+
