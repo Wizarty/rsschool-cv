@@ -10,11 +10,11 @@ Contacts:
 **Education:**
 ---------
 
-2016-2020 
+2016-2020
 :   **Bachelor, Computer Science, Gtu**
 
 
-2020-2020 (expected)
+2020-2022(expected)
 :   **Master , Computer Science, Gtu**
 
 **Experience:**
