@@ -9,7 +9,7 @@ E-mail: wizart.ru@gmail.com
 Phone: 597056527 
 -------------------     ----------------------------
 
-**Summary:**  
+## Summary:    
 ***Student and Junior .Net developer***
 
 **Education:**
