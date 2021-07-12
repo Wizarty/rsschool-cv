@@ -43,11 +43,9 @@ Phone: 597056527
 Have created websites, games and many small programs(unity3d games,wpf and many similar projets) at home. I need few days to learn new programs.
 Have experience in the work of the Ms SQL Database administrator in *MOF(Ministry of Finance of Georgia)* and Asp web developer.
 
-
 **Languages:**
 ----------------------------------------
 
   * English
   * Georgian
   * Russian
-
