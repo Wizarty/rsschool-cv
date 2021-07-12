@@ -3,7 +3,6 @@ Arthur Muradov
 
 ![profile](https://bit.ly/3xzhat3 "title")
 
-
 **Contact Info:**  
 E-mail: wizart.ru@gmail.com  
 Phone: 597056527 
